@@ -1,2 +1,2 @@
 # tic-tac-toe
-# derployed site https://tictactoebyal.netlify.app/
+# deployed site https://tictactoebyal.netlify.app/
